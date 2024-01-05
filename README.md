@@ -1,7 +1,5 @@
 hi, i'm katie. i'm a chicago-based designer that sometimes likes to code random stuff :)
 
-sometimes i just need to build something, and vscode is free, so....
-
 currently, i'm switching between a few projects, mostly to get some practice in before i start university this fall ♡
 
 a few that i'm working on right now include:
